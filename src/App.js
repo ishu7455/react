@@ -11,7 +11,7 @@ function App() {
      
       
           Learn React
-          <button className='gjggjgj' onClick={test}>submit</button>
+          <button className='gjggjgj' onClick={test}>submit and click</button>
           <div >Original Text</div>
     </div>
   );
